@@ -1,5 +1,1 @@
 Hello, Git!
-
-Access Data:
-username=username
-password=qwerty1234567
